@@ -1,4 +1,4 @@
-name: My SnehaTomo cat
+name: My YourTomo cat
 on:
   schedule:
     - cron: '23 */6 * * *'   # every 6h - pick your own minute
