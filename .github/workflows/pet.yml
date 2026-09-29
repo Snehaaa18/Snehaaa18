@@ -11,7 +11,7 @@ jobs:
   pet:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4.1.7  # or latest v4
       - uses: prsdx/github-pet@v1
         with:
           username: your-username        # change me
